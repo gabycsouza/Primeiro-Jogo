@@ -695,3 +695,6 @@ function podeSeMover(){
 ![estrada](https://user-images.githubusercontent.com/120193887/211917974-7d2f2443-ba6a-493a-9e79-d688f474634f.png)
 
 //som//
+
+//link do jogo//
+https://editor.p5js.org/gabycsouza/full/mpmbjIVXp
